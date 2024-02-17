@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Navbar */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+/* Page Heading */
+header {
+    padding: 80px 0;
+}
+
+h1 {
+    color: #343a40;
+}
+
+/* Sections */
+section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    margin-bottom: 20px;
+}
+
+.section-heading {
+    color: #343a40;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
